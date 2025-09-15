@@ -36,7 +36,7 @@ body{
     font-size:1em;
     line-height:1.5em;
     margin: 60px auto;
-    width: 1000px;
+    width: 1500px;
     @media only screen and (min-width: 1000px) {
 	width: 1500px;
     }
@@ -57,7 +57,7 @@ h3{font-size:1.67em;}
 h4{font-size:1.33em;}
 
 
-p{list-style:none; margin:24px auto 24px auto; padding:0px; width:900px; text-align:left;}
+p{list-style:none; margin:24px auto 24px auto; padding:0px; width:1300px; text-align:left;}
 @media only screen and (min-width: 1000px) {
     p{list-style:none; margin:24px auto 24px auto; padding:0px; width:1300px; text-align:left;}
 }
@@ -78,7 +78,7 @@ sub{
     line-height: 0;
 }
 table{
-    width: 1000px;
+    width: 1500px;
     @media only screen and (min-width: 1000px) {
 	width: 1500px;
     }
@@ -95,7 +95,7 @@ th,td{
 
 /* Website Banner */
 .banner {position: relative; font-family:'Roboto Slab',serif;}
-.top-left {font-size:5.33em; color: #505050; background: #fafafa; text-align: center; width: 1000px; height: 67px; position: absolute; padding: 36px 0 0 0; top: 0px;}
+.top-left {font-size:5.33em; color: #505050; background: #fafafa; text-align: center; width: 1500px; height: 67px; position: absolute; padding: 36px 0 0 0; top: 0px;}
 @media only screen and (min-width: 1000px) {
     .top-left {font-size:5.33em; color: #505050; background: #fafafa; text-align: center; width: 1500px; height: 67px; position: absolute; padding: 36px 0 0 0; top: 0px;}
 }
